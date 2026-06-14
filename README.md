@@ -1,14 +1,13 @@
-# 👥 HR Analysis Dashboard
-
-> An interactive Power BI dashboard that provides a comprehensive overview of key human resources metrics, enabling HR teams and management to make data-driven workforce decisions.
-
----
 
 ## 📌 Project Overview
 
 This dashboard was built to analyze and monitor the organization's human capital across multiple dimensions — from headcount and demographics to performance and attrition. It consolidates HR data into a single, intuitive view that helps stakeholders quickly identify trends, risks, and opportunities within the workforce.
 
 ---
+## 📊 Dashboard Preview
+
+![HR Dashboard](images/HR_Dashboard.png)
+
 
 ## 🎯 Key Questions Answered
 
